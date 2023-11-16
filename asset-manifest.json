@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/unreal-recipes/static/css/main.86a54713.css",
-    "main.js": "/unreal-recipes/static/js/main.a702a23d.js",
+    "main.js": "/unreal-recipes/static/js/main.38924545.js",
     "static/js/787.89d6f5ed.chunk.js": "/unreal-recipes/static/js/787.89d6f5ed.chunk.js",
     "static/media/heading2.svg": "/unreal-recipes/static/media/heading2.d3138b4ccec7d4a09c8730f63bb5b5c1.svg",
     "static/media/werewolf-burger-f.png": "/unreal-recipes/static/media/werewolf-burger-f.513e2121b46145884ac8.png",
@@ -24,11 +24,11 @@
     "static/media/vampire-blood.jpeg": "/unreal-recipes/static/media/vampire-blood.eefee7447529c1483818.jpeg",
     "index.html": "/unreal-recipes/index.html",
     "main.86a54713.css.map": "/unreal-recipes/static/css/main.86a54713.css.map",
-    "main.a702a23d.js.map": "/unreal-recipes/static/js/main.a702a23d.js.map",
+    "main.38924545.js.map": "/unreal-recipes/static/js/main.38924545.js.map",
     "787.89d6f5ed.chunk.js.map": "/unreal-recipes/static/js/787.89d6f5ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86a54713.css",
-    "static/js/main.a702a23d.js"
+    "static/js/main.38924545.js"
   ]
 }
