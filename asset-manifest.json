@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/unreal-recipes/static/css/main.86a54713.css",
+    "main.js": "/unreal-recipes/static/js/main.a702a23d.js",
+    "static/js/787.89d6f5ed.chunk.js": "/unreal-recipes/static/js/787.89d6f5ed.chunk.js",
+    "static/media/heading2.svg": "/unreal-recipes/static/media/heading2.d3138b4ccec7d4a09c8730f63bb5b5c1.svg",
+    "static/media/werewolf-burger-f.png": "/unreal-recipes/static/media/werewolf-burger-f.513e2121b46145884ac8.png",
+    "static/media/steak-f.png": "/unreal-recipes/static/media/steak-f.d14b64581be00dc2db1d.png",
+    "static/media/invisibility-potion2.jpg": "/unreal-recipes/static/media/invisibility-potion2.737494c925fe8fb04241.jpg",
+    "static/media/mermaid-f.png": "/unreal-recipes/static/media/mermaid-f.fede2ef7120e915c1454.png",
+    "static/media/unicorn-cake.png": "/unreal-recipes/static/media/unicorn-cake.ceacd16022d479ec27b5.png",
+    "static/media/vampire-blood-wine-f.png": "/unreal-recipes/static/media/vampire-blood-wine-f.e38ec6954566bb8463cf.png",
+    "static/media/dragon-steak2.jpg": "/unreal-recipes/static/media/dragon-steak2.6a69e67b1acf9f9c7031.jpg",
+    "static/media/dragon-steak.jpg": "/unreal-recipes/static/media/dragon-steak.f53d6b88198b028424ac.jpg",
+    "static/media/invisibility-potion.png": "/unreal-recipes/static/media/invisibility-potion.8825b20a660ab9bab393.png",
+    "static/media/mermaid-sushi.jpeg": "/unreal-recipes/static/media/mermaid-sushi.f8c77e5548f42bcbcd57.jpeg",
+    "static/media/invisibility-potion.jpg": "/unreal-recipes/static/media/invisibility-potion.77b71edaa31a7d07e21a.jpg",
+    "static/media/unicorn-cake.jpg": "/unreal-recipes/static/media/unicorn-cake.95db48b917f9d6e3236b.jpg",
+    "static/media/mermaid-sushi2.jpeg": "/unreal-recipes/static/media/mermaid-sushi2.ce62009fb42a491f54b8.jpeg",
+    "static/media/werewolf-burger2.jpeg": "/unreal-recipes/static/media/werewolf-burger2.6ca72b409c98e601da01.jpeg",
+    "static/media/werewolf-burger.jpeg": "/unreal-recipes/static/media/werewolf-burger.da287ed9387f1e0d90e0.jpeg",
+    "static/media/unicorn-cake2.jpg": "/unreal-recipes/static/media/unicorn-cake2.d810a56975bcc940f022.jpg",
+    "static/media/vampire-blood2.jpeg": "/unreal-recipes/static/media/vampire-blood2.38b303b738c63a82358d.jpeg",
+    "static/media/vampire-blood.jpeg": "/unreal-recipes/static/media/vampire-blood.eefee7447529c1483818.jpeg",
+    "index.html": "/unreal-recipes/index.html",
+    "main.86a54713.css.map": "/unreal-recipes/static/css/main.86a54713.css.map",
+    "main.a702a23d.js.map": "/unreal-recipes/static/js/main.a702a23d.js.map",
+    "787.89d6f5ed.chunk.js.map": "/unreal-recipes/static/js/787.89d6f5ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a54713.css",
+    "static/js/main.a702a23d.js"
+  ]
+}
